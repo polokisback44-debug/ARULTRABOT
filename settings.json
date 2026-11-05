@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "elitecitysmp.aternos.me",
-    "port": : 21270,
+    "port": : 21270",
     "version": "1.20.1",
     "try-creative": false
   },
